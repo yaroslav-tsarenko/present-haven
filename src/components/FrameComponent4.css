@@ -1,0 +1,223 @@
+.about-gift-card {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.gift-cards-provide {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.about-gift-card-parent {
+  width: 894px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.for-shoppers {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.gift-cards-offer {
+  align-self: stretch;
+  height: 88px;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.02px;
+  line-height: 135%;
+  font-family: Lato;
+  color: #1c1c1c;
+  text-align: left;
+  display: flex;
+  align-items: center;
+}
+.shopper-business-retailer-titl {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.for-business {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.for-businesses-gift {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+  color: #1c1c1c;
+  text-align: left;
+}
+.shopper-business-retailer-titl1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+}
+.for-retailers {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.retailers-benefit-from {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+  color: #1c1c1c;
+  text-align: left;
+}
+.shopper-business-retailer,
+.shopper-business-retailer-titl2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shopper-business-retailer-titl2 {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 19px;
+}
+.shopper-business-retailer {
+  flex: 1;
+  align-items: flex-end;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 32px;
+  min-width: 552px;
+  max-width: 100%;
+}
+.montage-of-online-uk-gift-card-icon {
+  width: 878px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.shopper-business-retailer-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 64px;
+  max-width: 100%;
+  font-size: 32px;
+  color: #645552;
+}
+.about-content,
+.about-content-wrapper {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.about-content {
+  width: 1800px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 4px;
+  gap: 64px;
+}
+.about-content-wrapper {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 80px 0;
+  z-index: 1;
+  text-align: center;
+  font-size: 48px;
+  color: #1c1c1c;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1450px) {
+  .montage-of-online-uk-gift-card-icon {
+    flex: 1;
+  }
+  .shopper-business-retailer-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .about-content-wrapper {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .about-gift-card {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .for-business,
+  .for-retailers,
+  .for-shoppers {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .shopper-business-retailer {
+    min-width: 100%;
+  }
+  .about-content,
+  .shopper-business-retailer-parent {
+    gap: 32px;
+  }
+  .about-content-wrapper {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-gift-card {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .for-business,
+  .for-retailers,
+  .for-shoppers {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .about-content,
+  .shopper-business-retailer,
+  .shopper-business-retailer-parent {
+    gap: 16px;
+  }
+}

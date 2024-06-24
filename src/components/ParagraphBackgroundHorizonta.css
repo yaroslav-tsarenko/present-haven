@@ -1,0 +1,37 @@
+.heading-31 {
+  width: 313.2px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.symbol1 {
+  position: relative;
+  display: inline-block;
+  min-width: 16.2px;
+}
+.paragraphbackgroundhorizonta1,
+.symbol-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  color: #777;
+  font-family: Poppins;
+}
+.paragraphbackgroundhorizonta1 {
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px 15px 19px;
+  gap: 20px;
+  text-align: left;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}

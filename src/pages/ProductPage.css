@@ -1,0 +1,41 @@
+.heading-21 {
+  width: 560px;
+  height: 78px;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.main-content-wrapper {
+  width: 1831px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 18.8px;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.productpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .productpage {
+    gap: 40px;
+  }
+}
+@media screen and (max-width: 800px) {
+  .productpage {
+    gap: 20px;
+  }
+}

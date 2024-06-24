@@ -1,0 +1,123 @@
+.discover-a-world,
+.heading-22 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.heading-22 {
+  margin: 0;
+  width: 764px;
+  height: 59px;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  max-width: 100%;
+}
+.discover-a-world {
+  align-self: stretch;
+  height: 65px;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+  color: #000;
+  white-space: pre-wrap;
+}
+.heading-2-not-sure-which-gif-parent {
+  width: 1066px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.link-wishcard20banners-01p,
+.link-wishcard20banners-02p,
+.link-wishcard20banners-03p {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 366px;
+}
+.link-wishcard20banners-01p-parent {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+  max-width: 100%;
+  grid-template-columns: repeat(3, minmax(426px, 1fr));
+}
+.unsure-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.unsure-content-wrapper {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 75px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: 48px;
+  color: #645552;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1450px) {
+  .link-wishcard20banners-01p-parent {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(426px, 739px));
+  }
+}
+@media screen and (max-width: 1200px) {
+  .link-wishcard20banners-01p,
+  .link-wishcard20banners-02p,
+  .link-wishcard20banners-03p {
+    width: 100%;
+  }
+  .link-wishcard20banners-01p-parent {
+    grid-template-columns: minmax(426px, 1fr);
+  }
+  .unsure-content-wrapper {
+    padding-left: 37px;
+    padding-right: 37px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .heading-22 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .link-wishcard20banners-01p-parent,
+  .unsure-content {
+    gap: 16px;
+  }
+  .unsure-content-wrapper {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-22 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

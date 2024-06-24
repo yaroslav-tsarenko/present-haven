@@ -1,0 +1,90 @@
+.container-icon17 {
+  align-self: stretch;
+  height: 200px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div64 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div64,
+.div65,
+.div66 {
+  position: relative;
+}
+.div65 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div66 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent17,
+.recommendation-items-inner {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.parent17 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 4px;
+}
+.recommendation-items-inner {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 73px;
+}
+.aldi-blue-giftcard3,
+.aldi5 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.aldi-blue-giftcard3 {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.recommendation-items {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 22.7px;
+  min-width: 294px;
+  max-width: 300px;
+  text-align: center;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}
+@media screen and (max-width: 450px) {
+  .recommendation-items-inner {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

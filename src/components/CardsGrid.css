@@ -1,0 +1,592 @@
+.link-202220all20gift20car3 {
+  height: 195px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 97.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder6,
+.backgroundborder7 {
+  height: 8px;
+  width: 8px;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.backgroundborder7 {
+  background-color: #000;
+  border: 1px solid #fff;
+}
+.container8 {
+  justify-content: flex-start;
+  padding: 11px 20px;
+  gap: 8px;
+  opacity: 0.6;
+  z-index: 1;
+}
+.container-container,
+.container7,
+.container8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.container7 {
+  flex: 1;
+  overflow: hidden;
+  justify-content: center;
+  padding: 170px 0 0;
+  position: relative;
+}
+.container-container {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 39px;
+}
+.div39 {
+  width: 61.1px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div39,
+.div40,
+.space {
+  position: relative;
+}
+.space {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div40 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.frame-wrapper2,
+.parent12 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.parent12 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 4px;
+}
+.frame-wrapper2 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 24px 0 23px;
+}
+.lifestyle {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 67.2px;
+}
+.lifestyle-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 69px 0 68px;
+}
+.adidas-gift-card {
+  align-self: stretch;
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.frame-parent2,
+.frame-wrapper1 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent2 {
+  width: 204.2px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 8px;
+}
+.frame-parent1 {
+  width: 378.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.container-icon10 {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.div41 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div41,
+.div42,
+.div43 {
+  position: relative;
+}
+.div42 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div43 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent13 {
+  width: 153.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.aldi2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.aldi-blue-giftcard1 {
+  width: 170px;
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.frame-parent4 {
+  align-self: stretch;
+  align-items: center;
+  gap: 6px;
+}
+.container-parent,
+.frame-parent3,
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.container-parent {
+  align-self: stretch;
+  align-items: center;
+  gap: 24px;
+}
+.frame-parent3 {
+  width: 378.5px;
+  align-items: flex-start;
+  gap: 32px;
+  max-width: 100%;
+}
+.container-icon11 {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.div44 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div44,
+.div45,
+.div46 {
+  position: relative;
+}
+.div45 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div46 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent14 {
+  width: 153.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.aldi-blue-giftcard2,
+.aldi3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.aldi-blue-giftcard2 {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.container-group,
+.frame-parent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent7 {
+  align-self: stretch;
+  gap: 6px;
+}
+.container-group {
+  flex: 1;
+  gap: 24px;
+  min-width: 246px;
+  max-width: 100%;
+}
+.container-icon12 {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.argos-space,
+.div47 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div47 {
+  width: 57.9px;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.argos-space {
+  width: 18.4px;
+  line-height: 18px;
+}
+.div48 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.argos-card-prices {
+  width: 153.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.aldi4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.aldi-orange-giftcard1,
+.argos-card-content {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.aldi-orange-giftcard1 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  color: #645552;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.argos-card-content {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.american-golf-card-container,
+.frame-parent6 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.american-golf-card-container {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  min-width: 246px;
+}
+.frame-parent6 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 14px;
+}
+.container-icon13 {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.div49 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div49,
+.div50,
+.div51 {
+  position: relative;
+}
+.div50 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div51 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent15 {
+  width: 153.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.american-golf-gift1,
+.american-golf1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.american-golf-gift1 {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.container-parent1,
+.frame-parent9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent9 {
+  align-self: stretch;
+  gap: 6px;
+}
+.container-parent1 {
+  flex: 1;
+  gap: 24px;
+  min-width: 246px;
+  max-width: 100%;
+}
+.container-icon14 {
+  width: 300px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.div52 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div52,
+.div53,
+.div54 {
+  position: relative;
+}
+.div53 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div54 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent16 {
+  width: 153.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.argos-gift-card1,
+.argos1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.argos-gift-card1 {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.container-parent2,
+.frame-parent10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent10 {
+  align-self: stretch;
+  gap: 6px;
+}
+.container-parent2 {
+  flex: 1;
+  gap: 24px;
+  min-width: 246px;
+  max-width: 100%;
+}
+.frame-parent8 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 14px;
+}
+.cards-grid,
+.frame-parent5,
+.frame-parent8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  flex: 1;
+  flex-direction: column;
+  gap: 32px;
+  min-width: 501px;
+}
+.cards-grid {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 14px;
+  text-align: center;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}
+@media screen and (max-width: 825px) {
+  .frame-parent6,
+  .frame-parent8 {
+    flex-wrap: wrap;
+  }
+  .frame-parent5 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-parent3,
+  .frame-parent5 {
+    gap: 16px;
+  }
+}

@@ -1,0 +1,130 @@
+.header {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background-color: #645552;
+  align-self: stretch;
+  height: 54px;
+  border-radius: 5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16px 24px;
+  box-sizing: border-box;
+  font-family: Nunito;
+  font-size: 18px;
+  color: #fff;
+  min-width: 250px;
+}
+.your-personal-data {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.tag-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 68px;
+}
+.tag-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 20px;
+  background-color: #645552;
+  align-self: stretch;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.billing-form-parent,
+.checkout,
+.checkout-details {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checkout-details {
+  align-self: stretch;
+  border-radius: 5px;
+  background-color: #fff;
+  padding: 36px 24px;
+  gap: 36px;
+}
+.billing-form-parent,
+.checkout {
+  width: 500px;
+  max-width: 100%;
+}
+.billing-form-parent {
+  width: 1532px;
+  align-items: flex-end;
+}
+.checkoutpage,
+.checkoutpage-inner {
+  display: flex;
+  align-items: flex-start;
+}
+.checkoutpage-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 24px 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.checkoutpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .checkoutpage {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .checkout-details {
+    gap: 18px;
+  }
+  .checkoutpage {
+    gap: 30px;
+  }
+}

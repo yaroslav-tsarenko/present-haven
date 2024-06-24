@@ -1,0 +1,411 @@
+.greeting-cards3 {
+  margin: 0;
+  height: 87px;
+  width: 383px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.recommendation-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link-202220all20gift20car4 {
+  height: 195px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 97.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder11,
+.backgroundborder12 {
+  height: 8px;
+  width: 8px;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.backgroundborder12 {
+  background-color: #000;
+  border: 1px solid #fff;
+}
+.container19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 20px;
+  gap: 8px;
+  opacity: 0.6;
+  z-index: 1;
+}
+.container18,
+.div67,
+.price-space {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+.container18 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 170px 0 0;
+}
+.div67,
+.price-space {
+  align-items: center;
+  flex-shrink: 0;
+}
+.div67 {
+  width: 61.1px;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.price-space {
+  width: 18.4px;
+  line-height: 18px;
+}
+.div68 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.price-details,
+.price-details-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.price-details {
+  flex: 1;
+  align-items: flex-end;
+  gap: 4px;
+}
+.price-details-wrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 72px 0 71px;
+}
+.card-titles,
+.lifestyle2 {
+  display: flex;
+  justify-content: center;
+}
+.lifestyle2 {
+  width: 67.2px;
+  position: relative;
+  line-height: 22px;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 67.2px;
+}
+.card-titles {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+}
+.adidas-gift-card1 {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+}
+.card-subtitles,
+.recommendation-items1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.card-subtitles {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 48px 0 47px;
+  color: #645552;
+}
+.recommendation-items1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 22.7px;
+  min-width: 294px;
+  max-width: 300px;
+}
+.container-icon18 {
+  align-self: stretch;
+  height: 200px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.div69 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div69,
+.div70,
+.div71 {
+  position: relative;
+}
+.div70 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div71 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent18,
+.recommendation-items-child {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.parent18 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 4px;
+}
+.recommendation-items-child {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 73px;
+}
+.aldi6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.aldi-blue-giftcard4 {
+  flex: 1;
+  position: relative;
+  line-height: 18px;
+}
+.aldi-blue-giftcard-wrapper,
+.recommendation-items2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aldi-blue-giftcard-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 65px;
+  color: #645552;
+}
+.recommendation-items2 {
+  flex: 1;
+  flex-direction: column;
+  gap: 22.7px;
+  min-width: 294px;
+  max-width: 300px;
+}
+.link-202220all20gift20car5 {
+  height: 195px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 97.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder13,
+.backgroundborder14 {
+  height: 8px;
+  width: 8px;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.backgroundborder14 {
+  background-color: #000;
+  border: 1px solid #fff;
+}
+.container21 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 20px;
+  gap: 8px;
+  opacity: 0.6;
+  z-index: 1;
+}
+.container20,
+.div72 {
+  display: flex;
+  justify-content: center;
+}
+.container20 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 170px 0 0;
+  position: relative;
+}
+.div72 {
+  width: 57.2px;
+  line-height: 135%;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div72,
+.div73,
+.div74 {
+  position: relative;
+}
+.div73 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div74 {
+  flex: 1;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.parent19 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.recommendation-items-inner1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 71px 0 72px;
+}
+.all-bar-one,
+.the-dining-out {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.all-bar-one {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.recommendation-items3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 22.7px;
+  min-width: 294px;
+  max-width: 300px;
+}
+.recommendation-grid {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 14px;
+  text-align: center;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}
+.recommendation,
+.related-products {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.recommendation {
+  width: 1556px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.related-products {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #645552;
+  font-family: Nunito;
+}
+@media screen and (max-width: 800px) {
+  .greeting-cards3 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .greeting-cards3 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .aldi-blue-giftcard-wrapper,
+  .card-subtitles,
+  .price-details-wrapper,
+  .recommendation-items-child,
+  .recommendation-items-inner1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

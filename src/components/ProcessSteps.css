@@ -1,0 +1,102 @@
+.contact-customer-support1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line4,
+.to-request-a1 {
+  margin: 0;
+}
+.the-gift-card2,
+.your-name-and1 {
+  margin-bottom: 0;
+}
+.your-name-and-contact-informat1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.to-request-a-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.review-and-processing1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.our-customer-support1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.steps1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.approved-cancellations {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.if-your-cancellation {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.process-steps,
+.steps2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.process-steps {
+  text-align: left;
+  font-size: 24px;
+  color: #1c1c1c;
+  font-family: Nunito;
+}
+@media screen and (max-width: 450px) {
+  .approved-cancellations,
+  .contact-customer-support1,
+  .review-and-processing1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

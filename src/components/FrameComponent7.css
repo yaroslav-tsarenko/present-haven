@@ -1,0 +1,137 @@
+.heading-1 {
+  margin: 0;
+  width: 626px;
+  height: 87px;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.gift-cards-are {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Lato;
+}
+.heading-1-uk-gift-cards-gi-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 3px;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.excellent,
+.link-our {
+  width: 118px;
+  position: relative;
+  line-height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.excellent {
+  width: 74px;
+  font-size: 18px;
+  line-height: 18px;
+}
+.link-img {
+  height: 23.8px;
+  width: 130px;
+  position: relative;
+}
+.strong-47 {
+  flex: 1;
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 144px;
+}
+.link-img1 {
+  height: 19.7px;
+  width: 80px;
+  position: relative;
+}
+.customer-review,
+.gift-cards-heading,
+.section-iframe-body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.customer-review {
+  width: 719px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 23.7px;
+}
+.gift-cards-heading,
+.section-iframe-body {
+  flex-direction: column;
+}
+.section-iframe-body {
+  align-self: stretch;
+  overflow: hidden;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 14px;
+  color: #1c1c1c;
+  font-family: Poppins;
+}
+.gift-cards-heading {
+  width: 1680px;
+  gap: 24px;
+}
+.gift-cards-content,
+.gift-cards-content-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.gift-cards-content {
+  flex: 1;
+  background-color: #fff;
+  overflow: hidden;
+  justify-content: center;
+  padding: 80px 20px;
+  flex-shrink: 0;
+}
+.gift-cards-content-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 80px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Nunito;
+}
+@media screen and (max-width: 825px) {
+  .heading-1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .gift-cards-content-wrapper {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}

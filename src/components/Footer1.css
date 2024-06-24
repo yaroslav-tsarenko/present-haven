@@ -1,0 +1,322 @@
+.shopping2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.horizontal-divider6 {
+  width: 30px;
+  height: 1px;
+  position: relative;
+  background-color: #6b6b6b;
+}
+.shopping-container {
+  width: 90.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.all-gift-cards2,
+.e-gift-cards2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.all-gift-cards2 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 97.4px;
+}
+.e-gift-cards2 {
+  min-width: 90.2px;
+}
+.greeting-cards2 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 108.8px;
+}
+.frame-parent18,
+.link-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-items {
+  gap: 8px;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.frame-parent18 {
+  width: 180px;
+  gap: 21px;
+}
+.our-company2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.horizontal-divider7 {
+  width: 30px;
+  height: 1px;
+  position: relative;
+  background-color: #6b6b6b;
+}
+.our-company-container {
+  width: 127.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.contact-us2,
+.wish-card2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 81.8px;
+}
+.wish-card2 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 75.1px;
+}
+.gift-cards-for2 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-us-container,
+.frame-parent19 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-us-container {
+  gap: 8px;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.frame-parent19 {
+  padding: 0 11px 0 0;
+  gap: 21px;
+}
+.information2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.horizontal-divider8 {
+  width: 30px;
+  height: 1px;
+  position: relative;
+  background-color: #6b6b6b;
+}
+.information-container {
+  width: 121.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.privacy-policy2 {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 98.8px;
+  flex-shrink: 0;
+}
+.item-link20 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.terms-conditions2 {
+  position: relative;
+  line-height: 18px;
+  flex-shrink: 0;
+}
+.item-link21 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.site-map2 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 64.6px;
+}
+.frame-parent20,
+.item-link-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link-container {
+  gap: 12px;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.frame-parent20 {
+  padding: 0 37px 0 0;
+  gap: 21px;
+}
+.footer-links2,
+.frame-parent17 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent17 {
+  width: 1232px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer-links2 {
+  width: 1844.4px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.the-gift-card2 {
+  position: relative;
+  line-height: 22px;
+}
+.cc-mastercardpng-icon2,
+.cc-visapng-icon2 {
+  align-self: stretch;
+  width: 37.5px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 24px;
+}
+.payment-logos,
+.visa-mastercard {
+  display: flex;
+  align-items: flex-start;
+}
+.visa-mastercard {
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.payment-logos {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.cc-american-expresspng-icon2 {
+  height: 24px;
+  width: 37.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 12px);
+  right: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background4 {
+  align-self: stretch;
+  background-color: #645552;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 30px 77px 29px 30px;
+  position: relative;
+  gap: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Lato;
+}
+.container12,
+.footer4,
+.footer5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.container12 {
+  flex: 1;
+  background-color: #e0cdbe;
+  flex-direction: column;
+  padding: 80px 0 0;
+  box-sizing: border-box;
+  gap: 86px;
+}
+.footer4,
+.footer5 {
+  flex-direction: row;
+}
+.footer5 {
+  flex: 1;
+  background-color: #fff;
+}
+.footer4 {
+  align-self: stretch;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #181823;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1225px) {
+  .background4 {
+    padding-right: 38px;
+    box-sizing: border-box;
+  }
+  .container12 {
+    gap: 43px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .frame-parent17 {
+    flex-wrap: wrap;
+  }
+  .container12 {
+    gap: 21px;
+  }
+  .footer4 {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .background4 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .container12 {
+    padding-top: 52px;
+    box-sizing: border-box;
+  }
+}

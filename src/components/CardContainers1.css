@@ -1,0 +1,87 @@
+.container-icon21 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.div87 {
+  width: 57.9px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div87,
+.div88,
+.div89 {
+  position: relative;
+}
+.div88 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div89 {
+  flex: 1;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 69.3px;
+  white-space: nowrap;
+}
+.parent24 {
+  width: 153.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.caff-nero-gift,
+.caffe-nero {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.caff-nero-gift {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.card-containers16,
+.container-parent3 {
+  display: flex;
+  justify-content: flex-start;
+}
+.container-parent3 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  gap: 22.7px;
+}
+.card-containers16 {
+  height: 329px;
+  width: 300px;
+  margin: 0 !important;
+  position: absolute;
+  top: 2210px;
+  left: 1380px;
+  flex-direction: row;
+  align-items: flex-start;
+  text-align: center;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}

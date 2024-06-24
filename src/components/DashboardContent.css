@@ -1,0 +1,432 @@
+.your-dashboard {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 114px;
+}
+.header3 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Lato;
+  font-size: 16px;
+  color: #fff;
+}
+.cards-icon {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.129);
+}
+.wrapper-cards {
+  height: 133px;
+  width: 124px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.panorma-presents-gift {
+  width: 179px;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+}
+.product-title {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  min-width: 148px;
+}
+.download-credit-details {
+  white-space: nowrap;
+}
+.credits,
+.download-credit-details {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.download-item,
+.product-credits {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  color: #000;
+}
+.download-item {
+  width: 559px;
+  flex-direction: row;
+  padding: 0 27px 0 0;
+  box-sizing: border-box;
+  gap: 15px;
+  max-width: 100%;
+  color: #1c1c1c;
+}
+.hrs,
+.up-time {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.up-time-parent {
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.icons-block {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.renewal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 3px;
+}
+.april-2024,
+.next-renewal {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.next-renewal-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.renewal-date {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1px 0 4px;
+}
+.cancel {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 48px;
+}
+.icons-block1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons-block-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3px 0 0;
+}
+.renew {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 49px;
+}
+.cancellation,
+.renew-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.cancellation {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: 20px;
+}
+.renewal-action {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 36px;
+}
+.download-list,
+.renewal-info-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.renewal-info-parent {
+  width: 178px;
+  align-items: flex-end;
+  gap: 7px;
+}
+.download-list {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 49px;
+  max-width: 100%;
+}
+.active-downloads-child {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #cacaca;
+  box-sizing: border-box;
+}
+.active-downloads,
+.your-dashboard-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.active-downloads {
+  align-self: stretch;
+  gap: 15px;
+}
+.your-dashboard-parent {
+  flex: 1;
+  gap: 36px;
+}
+.header4 {
+  border: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 54px;
+  font-family: Lato;
+  font-size: 16px;
+  color: #fff;
+}
+.darnell-roob,
+.name {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 42px;
+}
+.darnell-roob {
+  text-align: right;
+  min-width: 93px;
+}
+.user-name {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.email-address {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 100px;
+}
+.darnellroobhotmailcom {
+  position: relative;
+  line-height: 22px;
+  text-align: right;
+  white-space: nowrap;
+}
+.detail-items {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.basic,
+.plan {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 31px;
+}
+.basic {
+  text-align: right;
+  min-width: 37px;
+}
+.detail-items1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.april-20241,
+.expiry-date {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 83px;
+}
+.april-20241 {
+  text-align: right;
+  min-width: 101px;
+}
+.detail-items2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.auto-renewal,
+.on {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 99px;
+}
+.on {
+  text-align: right;
+  min-width: 22px;
+}
+.detail-items3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.account-details,
+.info-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.account-details {
+  align-self: stretch;
+}
+.info-list {
+  flex: 1;
+  max-width: 100%;
+}
+.checkout-details,
+.user-information {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.user-information {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 24px 0 25px;
+}
+.checkout-details {
+  flex: 1;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 32px;
+  gap: 36px;
+}
+.checkout-details-wrapper {
+  width: 504px;
+  background-color: #9f0132;
+  justify-content: flex-start;
+  min-width: 504px;
+}
+.checkout-details-wrapper,
+.dashboard-content,
+.frame-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent5 {
+  width: 1536px;
+  justify-content: flex-start;
+  gap: 47px;
+}
+.dashboard-content {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+@media screen and (max-width: 1275px) {
+  .checkout-details-wrapper {
+    flex: 1;
+  }
+  .frame-parent5 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .download-list {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .download-item {
+    flex-wrap: wrap;
+  }
+  .download-list {
+    gap: 24px;
+  }
+  .your-dashboard-parent {
+    gap: 18px;
+    min-width: 100%;
+  }
+  .checkout-details {
+    gap: 18px;
+  }
+  .checkout-details-wrapper {
+    gap: 23px;
+    min-width: 100%;
+  }
+  .frame-parent5 {
+    gap: 23px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .detail-items,
+  .detail-items1,
+  .detail-items2,
+  .user-name {
+    flex-wrap: wrap;
+  }
+  .account-details,
+  .info-list {
+    gap: 16px;
+  }
+}

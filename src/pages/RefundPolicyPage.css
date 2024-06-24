@@ -1,0 +1,263 @@
+.refund-policy {
+  margin: 0;
+  width: 1680px;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.refund-policy-wrapper {
+  align-self: stretch;
+  background-color: #bad6eb;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lilylamb-kids-we2 {
+  width: 1120px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+  display: inline-block;
+  max-width: 100%;
+}
+.refund-request-process {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 43px;
+}
+.contact-customer-support,
+.refund-request-process-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.contact-customer-support {
+  line-height: 29px;
+}
+.blank-line2,
+.to-request-a {
+  margin: 0;
+}
+.the-gift-card,
+.your-name-and {
+  margin-bottom: 0;
+}
+.your-name-and-contact-informat {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.to-request-a-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.refund-process-steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.review-and-processing {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+}
+.our-customer-support {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.refund-process-steps1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.approved-refunds,
+.if-your-refund {
+  align-self: stretch;
+  position: relative;
+}
+.approved-refunds {
+  margin: 0;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.if-your-refund {
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Lato;
+}
+.refund-process-steps2 {
+  align-self: stretch;
+  gap: 16px;
+}
+.refund-process-content,
+.refund-process-steps2,
+.refund-request-process-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.refund-process-content {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 24px;
+}
+.refund-request-process-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.contact-information4,
+.contact-information5 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.contact-information5 {
+  padding-left: 43px;
+}
+.contact-information4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 400;
+}
+.address-123-main2,
+.blank-line3,
+.brandname-customer-support2,
+.email-supportbrandnamecom2,
+.if-you-have2,
+.phone-1-800-123-45672 {
+  margin: 0;
+}
+.if-you-have-container2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.contact-info-content,
+.contact-information-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-info-content {
+  align-self: stretch;
+  font-size: 16px;
+  font-family: Lato;
+}
+.contact-information-parent {
+  width: 1120px;
+  gap: 32px;
+  max-width: 100%;
+}
+.refund-policy-content,
+.refundpolicypage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: #1c1c1c;
+  font-family: Nunito;
+}
+.refund-policy-content {
+  align-self: stretch;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+}
+.refundpolicypage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 48px;
+}
+@media screen and (max-width: 1200px) {
+  .refund-policy-content {
+    gap: 32px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .refund-policy {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .contact-information4,
+  .refund-request-process-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .contact-information-parent,
+  .refund-request-process-parent {
+    gap: 16px;
+  }
+  .refund-policy-content {
+    gap: 16px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .refund-policy {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .approved-refunds,
+  .contact-customer-support,
+  .contact-information4,
+  .refund-request-process-container,
+  .review-and-processing {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

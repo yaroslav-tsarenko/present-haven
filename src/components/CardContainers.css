@@ -1,0 +1,138 @@
+.link-202220all20gift20car8 {
+  height: 195px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 97.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder19,
+.backgroundborder20 {
+  height: 8px;
+  width: 8px;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.backgroundborder20 {
+  background-color: #000;
+  border: 1px solid #fff;
+}
+.container28 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 20px;
+  gap: 8px;
+  opacity: 0.6;
+  z-index: 1;
+}
+.container27,
+.div90 {
+  display: flex;
+  justify-content: center;
+}
+.container27 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 170px 0 0;
+  position: relative;
+}
+.div90 {
+  width: 61.1px;
+  line-height: 135%;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div90,
+.div91,
+.div92 {
+  position: relative;
+}
+.div91 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div92 {
+  flex: 1;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.card-containers-inner14,
+.parent25 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.parent25 {
+  flex: 1;
+  align-items: flex-end;
+  gap: 3.9px;
+}
+.card-containers-inner14 {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 70px;
+}
+.asos {
+  width: 34.9px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 34.9px;
+}
+.asos-wrapper,
+.calvin-klein-asos {
+  align-self: stretch;
+  display: flex;
+  justify-content: center;
+}
+.asos-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 21px 0 20px;
+}
+.calvin-klein-asos {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  color: #645552;
+  align-items: center;
+  flex-shrink: 0;
+}
+.card-containers17 {
+  height: 329px;
+  width: 300px;
+  margin: 0 !important;
+  position: absolute;
+  top: 2652px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 40.7px;
+  box-sizing: border-box;
+  gap: 22.7px;
+  text-align: center;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}

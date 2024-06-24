@@ -1,0 +1,44 @@
+.heading-3,
+.symbol {
+  position: relative;
+  display: inline-block;
+}
+.heading-3 {
+  flex: 1;
+  line-height: 135%;
+  min-width: 328px;
+  max-width: 100%;
+}
+.symbol {
+  min-width: 16.2px;
+}
+.paragraphbackgroundhorizonta,
+.symbol-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  color: #777;
+  font-family: Poppins;
+}
+.paragraphbackgroundhorizonta {
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 20px 14px 19px 15px;
+  gap: 10.1px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}
+@media screen and (max-width: 800px) {
+  .paragraphbackgroundhorizonta {
+    flex-wrap: wrap;
+  }
+}

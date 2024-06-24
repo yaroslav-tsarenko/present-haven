@@ -1,0 +1,321 @@
+.shopping1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.horizontal-divider3 {
+  width: 30px;
+  height: 1px;
+  position: relative;
+  background-color: #6b6b6b;
+}
+.shopping-group {
+  width: 90.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.all-gift-cards1,
+.e-gift-cards1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+}
+.all-gift-cards1 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 97.4px;
+}
+.e-gift-cards1 {
+  min-width: 90.2px;
+}
+.greeting-cards1 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 108.8px;
+}
+.footer-link-items,
+.frame-parent14 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer-link-items {
+  gap: 8px;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.frame-parent14 {
+  width: 180px;
+  gap: 21px;
+}
+.our-company1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.horizontal-divider4 {
+  width: 30px;
+  height: 1px;
+  position: relative;
+  background-color: #6b6b6b;
+}
+.our-company-group {
+  width: 127.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.contact-us1,
+.wish-card1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 81.8px;
+}
+.wish-card1 {
+  color: inherit;
+  text-decoration: none;
+  min-width: 75.1px;
+}
+.gift-cards-for1 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-us-group,
+.frame-parent15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-us-group {
+  gap: 8px;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.frame-parent15 {
+  padding: 0 11px 0 0;
+  gap: 21px;
+}
+.information1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.horizontal-divider5 {
+  width: 30px;
+  height: 1px;
+  position: relative;
+  background-color: #6b6b6b;
+}
+.information-group {
+  width: 121.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.privacy-policy1 {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 98.8px;
+  flex-shrink: 0;
+}
+.item-link18 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.terms-conditions1 {
+  position: relative;
+  line-height: 18px;
+  flex-shrink: 0;
+}
+.item-link19 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.site-map1 {
+  height: 18px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 64.6px;
+}
+.frame-parent16,
+.item-link-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-link-group {
+  gap: 12px;
+  font-size: 16px;
+  color: #000;
+  font-family: Lato;
+}
+.frame-parent16 {
+  padding: 0 37px 0 0;
+  gap: 21px;
+}
+.footer-links-content,
+.footer-links1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.footer-links-content {
+  width: 1232px;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer-links1 {
+  width: 1844.4px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.the-gift-card1 {
+  position: relative;
+  line-height: 22px;
+}
+.cc-mastercardpng-icon1,
+.cc-visapng-icon1 {
+  align-self: stretch;
+  width: 37.5px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  min-height: 24px;
+}
+.cc-visapng-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.payment-icons1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 1px;
+}
+.cc-american-expresspng-icon1 {
+  height: 24px;
+  width: 37.5px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 12px);
+  right: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.background3 {
+  align-self: stretch;
+  background-color: #645552;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 30px 77px 29px 30px;
+  position: relative;
+  gap: 20px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Lato;
+}
+.container11,
+.footer2,
+.footer3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.container11 {
+  flex: 1;
+  background-color: #e0cdbe;
+  flex-direction: column;
+  padding: 80px 0 0;
+  box-sizing: border-box;
+  gap: 86px;
+}
+.footer2,
+.footer3 {
+  flex-direction: row;
+}
+.footer3 {
+  flex: 1;
+  background-color: #fff;
+}
+.footer2 {
+  align-self: stretch;
+  overflow: hidden;
+  text-align: left;
+  font-size: 18px;
+  color: #181823;
+  font-family: Nunito;
+}
+@media screen and (max-width: 1100px) {
+  .background3 {
+    padding-right: 38px;
+    box-sizing: border-box;
+  }
+  .container11 {
+    gap: 43px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .footer-links-content {
+    flex-wrap: wrap;
+  }
+  .container11 {
+    gap: 21px;
+  }
+  .footer2 {
+    gap: 24px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .background3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .container11 {
+    padding-top: 52px;
+    box-sizing: border-box;
+  }
+}

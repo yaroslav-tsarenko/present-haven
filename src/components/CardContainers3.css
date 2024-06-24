@@ -1,0 +1,124 @@
+.link-202220all20gift20car7 {
+  height: 195px;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 97.5px);
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.backgroundborder17,
+.backgroundborder18 {
+  height: 8px;
+  width: 8px;
+  position: relative;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.backgroundborder18 {
+  background-color: #000;
+  border: 1px solid #fff;
+}
+.container26 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 20px;
+  gap: 8px;
+  opacity: 0.6;
+  z-index: 1;
+}
+.container25,
+.div81 {
+  display: flex;
+  justify-content: center;
+}
+.container25 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 170px 0 0;
+  position: relative;
+}
+.div81 {
+  width: 57.2px;
+  line-height: 135%;
+  align-items: center;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.div81,
+.div82,
+.div83 {
+  position: relative;
+}
+.div82 {
+  width: 18.4px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.div83 {
+  flex: 1;
+  line-height: 135%;
+  white-space: nowrap;
+}
+.parent22 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.card-containers-inner12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 71px 0 72px;
+}
+.all-bar-one1,
+.the-dining-out1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.all-bar-one1 {
+  height: 18px;
+  line-height: 135%;
+  color: #645552;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.card-containers14 {
+  height: 329px;
+  width: 300px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 1380px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 40.7px;
+  box-sizing: border-box;
+  gap: 22.7px;
+  text-align: center;
+  font-size: 16px;
+  color: #767676;
+  font-family: Lato;
+}
